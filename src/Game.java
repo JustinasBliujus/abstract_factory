@@ -19,8 +19,6 @@ public class Game {
     }
     
     public void startGame() {
-        System.out.println("=== Fantasy Battle Game ===");
-        System.out.println("Welcome to the realm of endless battles!");
         System.out.println("Choose your faction and create your warriors to fight!");
         System.out.println();
         
